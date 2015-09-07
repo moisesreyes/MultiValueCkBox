@@ -1,0 +1,5 @@
+R:\Dev\SharpDevelop_5.1.0.5134_RC_Xcopyable\MultiValueCkBox\MultiValueCkBox\bin\Debug\MultiValueCkBox.dll
+R:\Dev\SharpDevelop_5.1.0.5134_RC_Xcopyable\MultiValueCkBox\MultiValueCkBox\bin\Debug\MultiValueCkBox.pdb
+R:\Dev\SharpDevelop_5.1.0.5134_RC_Xcopyable\MultiValueCkBox\MultiValueCkBox\obj\Debug\MultiValueCkBox.dll
+R:\Dev\SharpDevelop_5.1.0.5134_RC_Xcopyable\MultiValueCkBox\MultiValueCkBox\obj\Debug\MultiValueCkBox.pdb
+R:\Dev\SharpDevelop_5.1.0.5134_RC_Xcopyable\MultiValueCkBox\MultiValueCkBox\obj\Debug\MultiValueCkBox.csprojResolveAssemblyReference.cache
